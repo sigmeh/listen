@@ -21,19 +21,19 @@ Better:
 
 The data structure for saved packet contents is as follows: 
 	/path-to-dir/listen/
-					listen/
-						data/
-							src_ip1/
-								hash_val1/
-									packet_dict
-									epoch_list
-							src_ip2/
-								hash_val1/
-									packet_dict
-									epoch_list
-								hash_val2/
-									packet_dict
-									epoch_list
+	.				listen/
+	.					data/
+	.						src_ip1/
+	.							hash_val1/
+	.								packet_dict
+	.								epoch_list
+	.						src_ip2/
+	.							hash_val1/
+	.								packet_dict
+	.								epoch_list
+	.							hash_val2/
+	.								packet_dict
+	.								epoch_list
 
 
 
